@@ -1,0 +1,12 @@
+1012 Roshan Perera 50 60 74
+1013 Rosie Fanando 50 89 56
+1014 Gihan Warnakulasooriya 50 78 12
+1015 Saumya Thilakarathne 50 54 56
+1016 Kanishka Bandara 50 45 59
+1017 Bharatha Jayarathne 50 71 70
+1018 Dinuth Gunawardane 50 63 67
+1019 Gayathri Wathupola 50 51 62
+1020 Sulakkana Dissanayake 50 81 96
+1021 Hiruni Amaya 50 69 97
+1022 Sulochana Rajapakshe 50 54 63
+1023 Lochana Perera 50 58 31
